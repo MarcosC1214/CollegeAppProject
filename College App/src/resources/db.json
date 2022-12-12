@@ -1,0 +1,132 @@
+{
+  "students": [
+    {
+      "id": "5e37e1e6-b88f-471a-843d-78f778d42fc0",
+      "name": "test1",
+      "username": "test1",
+      "password": "test1",
+      "universities": [
+        {
+          "name": "Florida State University",
+          "id": 134097,
+          "state": "FL",
+          "cost": null,
+          "city": "Tallahassee",
+          "booksupply": 1000,
+          "overallAvg": 9946,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "Orange Technical College-Mid Florida Campus",
+          "id": 135735,
+          "state": "FL",
+          "cost": null,
+          "city": "Orlando",
+          "booksupply": 0,
+          "overallAvg": 0,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "Florida Agricultural and Mechanical University",
+          "id": 133650,
+          "state": "FL",
+          "cost": null,
+          "city": "Tallahassee",
+          "booksupply": 1138,
+          "overallAvg": 13126,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "University of South Florida",
+          "id": 137351,
+          "state": "FL",
+          "cost": null,
+          "city": "Tampa",
+          "booksupply": 1100,
+          "overallAvg": 8346,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "The University of West Florida",
+          "id": 138354,
+          "state": "FL",
+          "cost": null,
+          "city": "Pensacola",
+          "booksupply": 1600,
+          "overallAvg": 7089,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "Talmudic College of Florida",
+          "id": 137777,
+          "state": "FL",
+          "cost": null,
+          "city": "Miami Beach",
+          "booksupply": 900,
+          "overallAvg": 10145,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "Florida Southern College",
+          "id": 134079,
+          "state": "FL",
+          "cost": null,
+          "city": "Lakeland",
+          "booksupply": 1250,
+          "overallAvg": 26517,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "University of California-San Francisco",
+          "id": 110699,
+          "state": "CA",
+          "cost": null,
+          "city": "San Francisco",
+          "booksupply": 0,
+          "overallAvg": 0,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "Saint Mary's College of California",
+          "id": 123554,
+          "state": "CA",
+          "cost": null,
+          "city": "Moraga",
+          "booksupply": 1080,
+          "overallAvg": 37232,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        },
+        {
+          "name": "Westminster Theological Seminary in California",
+          "id": 125718,
+          "state": "CA",
+          "cost": null,
+          "city": "Escondido",
+          "booksupply": 0,
+          "overallAvg": 0,
+          "roomBoard": null,
+          "tuitionInState": null,
+          "tuitionOutState": null
+        }
+      ]
+    }
+  ]
+}
